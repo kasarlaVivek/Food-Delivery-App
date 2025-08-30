@@ -1,0 +1,2 @@
+the following packages are used for backend :
+express, mongoose, jsonwebtoken, bcrypt, cors, dotenv, body-parser, multer, stripe, validator, nodemon
